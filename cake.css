@@ -1,0 +1,15 @@
+@charset "utf-8";
+img {
+	width:100%;
+}
+
+.shop{
+	background-color:#F78486;
+	width:100%;
+}
+
+.cakes{
+	background-color:#88fc04;
+	float:left;
+	width:50%;
+}
